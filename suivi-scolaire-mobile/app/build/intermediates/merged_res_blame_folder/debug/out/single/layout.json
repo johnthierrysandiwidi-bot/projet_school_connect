@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/item_derniere_note.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_derniere_note.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/item_absence.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_absence.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/fragment_paiements.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_paiements.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/item_matiere_note.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_matiere_note.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/fragment_absences.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_absences.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/fragment_dashboard.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/item_paiement.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_paiement.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/activity_change_password.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/item_annonce.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_annonce.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/activity_pdf_viewer.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/fragment_annonces.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_annonces.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-mergeDebugResources-39:/layout/fragment_notes.xml",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_notes.xml"
+    }
+]

@@ -1,0 +1,6 @@
+bf.ecole.suiviscolaire.test.app-annotation-experimental-1.3.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\414ac2d8f67d60d33c67d23fc5cdea1a\transformed\annotation-experimental-1.3.0\res
+bf.ecole.suiviscolaire.test.app-core-1.5.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\daeaa9d72d83e48db3e3ff4d39b0563d\transformed\core-1.5.0\res
+bf.ecole.suiviscolaire.test.app-androidTest-2 C:\Users\ASUS\Downloads\suivi-scolaire-mobile-corrige (5)\suivi-scolaire-mobile\app\build\generated\res\resValues\androidTest\debug
+bf.ecole.suiviscolaire.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\Downloads\suivi-scolaire-mobile-corrige (5)\suivi-scolaire-mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+bf.ecole.suiviscolaire.test.app-mergeDebugAndroidTestResources-4 C:\Users\ASUS\Downloads\suivi-scolaire-mobile-corrige (5)\suivi-scolaire-mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+bf.ecole.suiviscolaire.test.app-merged_res-5 C:\Users\ASUS\Downloads\suivi-scolaire-mobile-corrige (5)\suivi-scolaire-mobile\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_activity_pdf_viewer.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/xml_file_paths.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/xml/file_paths.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_download.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/color_bottom_nav_color.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_item_annonce.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_annonce.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_item_derniere_note.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_derniere_note.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_fragment_notes.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_fragment_dashboard.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_item_absence.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_absence.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_password.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_password.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_announcement.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_announcement.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_fragment_paiements.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_paiements.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_activity_login.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_item_paiement.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_paiement.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_grades.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_grades.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_bg_avatar_placeholder.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/bg_avatar_placeholder.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_payment.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_home.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_check_circle.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_item_matiere_note.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/item_matiere_note.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/menu_main_menu.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/menu/main_menu.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_logout.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_fragment_absences.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_absences.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_activity_change_password.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_ic_absence.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/ic_absence.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/menu_bottom_nav_menu.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/layout_fragment_annonces.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/layout/fragment_annonces.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/drawable_bg_badge_pill.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/drawable/bg_badge_pill.xml"
+    },
+    {
+        "merged": "bf.ecole.suiviscolaire.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "bf.ecole.suiviscolaire.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
