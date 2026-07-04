@@ -1,3 +1,1 @@
-"# Projet School Connect" 
-"" 
-"Description du projet..." 
+"# Application Mobile de Suivi Scolaire"  "# Application Mobile de Suivi Scolaire" 
